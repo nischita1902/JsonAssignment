@@ -1,0 +1,38 @@
+{
+           "employee 1": {
+                     "Name": "Nischita Kotari",
+                     "DOB": "02/07/2001",
+                     "Height": "5.5ft",
+                     "City": "Srikakulam",
+                     "State": "Andhra Pradesh"
+           },
+           "employee 2": {
+                     "Name": "Rani",
+                     "DOB": "19/06/2000",
+                     "Height": "6ft",
+                     "City": "Srikakulam",
+                     "State": "Andhra Pradesh"
+           },
+           "employee 3": {
+                     "Name": "Akanksha",
+                     "DOB": "21/03/1999",
+                     "Height": "5.5ft",
+                     "City": "Vishakapatnam",
+                     "State": "Andhra Pradesh"
+           },
+           "employee 4": {
+                     "Name": "Sai",
+                     "DOB": "06/09/1998",
+                     "Height": "6ft",
+                     "City": "Secunderabad",
+                     "State": "Telanagana"
+           },
+           "employee 5": {
+                     "Name": "Nihal",
+                     "DOB": "19/10/2001",
+                     "Height": "6ft",
+                     "City": "Secunderabad",
+                     "State": "Telanagana"
+           }
+ }
+
